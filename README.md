@@ -1,5 +1,5 @@
 # The code for **When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression** 
-(ICML 2026)
+(ICML 2026) (https://arxiv.org/abs/2604.03557)
 
 run codes:
 
